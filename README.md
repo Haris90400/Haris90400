@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a stuent who is persuing engineering and I am passionate to learn new things in the field of technology.
+I am a student who is persuing engineering and I am passionate to learn new things in the field of technology.
 
 * 🌍  I'm based in MUMBAI
 * ✉️  You can contact me at [haris90400@gmail.com](mailto:haris90400@gmail.com)
