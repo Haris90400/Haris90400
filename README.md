@@ -11,7 +11,7 @@ I am a student who is persuing engineering and I am passionate to learn new thin
 * 🧠  I'm learning Python and Web development
 
 ### Skills
-<a href= "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e476vbuouscomhl5xt9ke5m2406sb5lrj6djvhu88wo&rid=200.webp&ct=g" /></a>
+<a href= "https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e476vbuouscomhl5xt9ke5m2406sb5lrj6djvhu88wo&rid=200.webp&ct=g"></a>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
