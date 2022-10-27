@@ -10,8 +10,6 @@ I am a student who is persuing engineering and I am passionate to learn new thin
 * ✉️  You can contact me at [haris90400@gmail.com](mailto:haris90400@gmail.com)
 * 🧠  I'm learning Python and Web development
 
-<a href="https://www.github.com/Haris90400" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Haris90400?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
