@@ -31,5 +31,9 @@ I am a student who is persuing engineering and I am passionate to learn new thin
 
 <a href="http://www.github.com/Haris90400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris90400&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/Haris90400"><img src="https://activity-graph.herokuapp.com/graph?username=Haris90400&bg_color=000000&color=ffffff&line=000000&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Haris90400" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris90400&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
